@@ -1,0 +1,12 @@
+{
+  "name": "time-server",
+  "version": "1.0.0",
+  "description": "A server that returns the current time",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Adam Griffiths",
+  "license": "ISC",
+  "dependencies": {}
+}
